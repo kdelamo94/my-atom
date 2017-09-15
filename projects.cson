@@ -1,0 +1,51 @@
+[
+  {
+    title: "Assignment1"
+    group: "graphics"
+    paths: [
+      "/home/kevin/programming_projects/graphics/assignment1"
+    ]
+  }
+  {
+    title: "BreazeHome"
+    group: "senior project"
+    paths: [
+      "/home/kevin/programming_projects/breazehome"
+    ]
+  }
+  {
+    title: "Assignment2"
+    group: "Graphics"
+    paths: [
+      "/home/kevin/programming_projects/graphics/assignment2"
+    ]
+  }
+  {
+    title: "Freeshit"
+    group: "Rando"
+    paths: [
+      "/home/kevin/programming_projects/freeshit"
+    ]
+  }
+  {
+    title: "OPT-CIS-Frontend"
+    group: "OPT"
+    paths: [
+      "/home/kevin/programming_projects/OPT-Client-Information-System/OPT-Client-Information-System-FrontEnd"
+    ]
+  }
+  {
+    title: "OPT-CIS-Backend"
+    group: "OPT"
+    paths: [
+      "/home/kevin/programming_projects/OPT-Client-Information-System/OPT-Client-Information-System-Backend"
+    ]
+  }
+  {
+    title: "Javatest"
+    group: "Experiments"
+    paths: [
+      "/home/kevin/programming_projects/javatest"
+    ]
+  }
+]

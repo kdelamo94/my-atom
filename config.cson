@@ -1,0 +1,32 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    audioBeep: false
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "*.pyc"
+      "__pycache__"
+    ]
+    openEmptyEditorOnStart: false
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "Lucario"
+    ]
+  editor:
+    fontSize: 13
+    showIndentGuide: true
+  "terminal-plus":
+    style: {}
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
